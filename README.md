@@ -2,6 +2,7 @@
 
 # Description
 "…when you have eliminated the impossible, whatever remains, however improbable, must be the truth"
+
 Sir Arthur Conan Doyle
 
 Our brains process the meaning of a sentence like this rather quickly. We're able to surmise:
