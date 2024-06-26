@@ -1,4 +1,5 @@
 # Contradictory, My Dear Watson
+![header](https://github.com/JamesSuryaPutra/Contradictory-My-Dear-Watson/assets/155945814/a7b941be-e615-410e-a654-16c96a8a0641)
 
 # Description
 "…when you have eliminated the impossible, whatever remains, however improbable, must be the truth"
